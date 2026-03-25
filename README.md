@@ -1,5 +1,5 @@
 <img width="1280" height="400" alt="Sin título-2" src="https://github.com/user-attachments/assets/4fe875b6-adfc-4f02-89ae-7a919c611a51" />
-# 👋 Hi, I'm Lautaro
+👋 Hi, I'm Lautaro
 
 💻 Web Developer from Argentina 🇦🇷  
 🚀 Focused on building real-world web applications  

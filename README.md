@@ -71,6 +71,6 @@ I enjoy creating functional, scalable systems and continuously improving my skil
 
 Currently looking to grow professionally and work on impactful projects 🚀
 
-## 📊 GitHub Stats
+
 
 

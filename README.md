@@ -72,7 +72,7 @@
 ---
 
 ## 📊 GitHub Stats
-
+![Stats](https://github-readme-stats.vercel.app/api?username=LautaroCLM&show_icons=true&theme=dark)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LautaroCLM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -95,13 +95,6 @@ I enjoy creating functional, scalable systems and continuously improving my skil
 
 Currently looking to grow professionally and work on impactful projects 🚀
 
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LautaroCLM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LautaroCLM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 
 

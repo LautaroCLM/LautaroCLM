@@ -82,13 +82,11 @@
 ---
 
 ## 📫 Contact
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
-- 📧 colmanlautaro24@gmail.com  
-- 💼 https://linkedin.com/in/lautaro-colman-26a773375  
-- 🐙 https://github.com/Lautarocoman12  
+
+-   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> colmanlautaro24@gmail.com  
+- <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> https://linkedin.com/in/lautaro-colman-26a773375
+
+  </div>
 
 ---
 

@@ -8,11 +8,6 @@
 ---
 
 ## 🛠 Tech Stack
-
-- 💻 Languages: Python, JavaScript, HTML, CSS  
-- ⚙️ Frameworks: Django  
-- 🗄 Databases: SQL (Relational Databases)  
-- 🧰 Tools: Git, GitHub, Excel, Photoshop, Canva
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -32,6 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
+- 🧰 Tools: Git, GitHub, Excel, Photoshop, Canva
 
 
 

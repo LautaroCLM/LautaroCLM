@@ -1,4 +1,5 @@
-<img width="1280" height="400" alt="Lautaro Colman" src="https://github.com/user-attachments/assets/4fe875b6-adfc-4f02-89ae-7a919c611a51" />
+<img width="1584" height="396" alt="portada4" src="https://github.com/user-attachments/assets/13513a0d-40ab-47bc-9b18-589791902389" />
+
 
 # Hola, soy Lautaro Colman
 

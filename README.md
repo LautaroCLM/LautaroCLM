@@ -1,249 +1,55 @@
 <img width="1280" height="400" alt="Lautaro Colman" src="https://github.com/user-attachments/assets/4fe875b6-adfc-4f02-89ae-7a919c611a51" />
 
-# 👋 Hi, I'm Lautaro
+# Hola, soy Lautaro Colman
 
-### Software Developer · Full-Stack · Backend Oriented
+**Desarrollador Backend · Técnico Universitario en Programación (UTN)**
 
-🇦🇷 Argentina
+Diseño y desarrollo la parte de servidor de sistemas de gestión: bases de datos relacionales, APIs, autenticación, roles y permisos, y datos separados por empresa. Trabajo como freelance desde 2024 y **estoy buscando mi primera experiencia laboral como desarrollador backend**.
 
-I build **real-world software systems, web applications and business platforms**, with a strong focus on backend development, application architecture, databases and reliable integrations.
-
-I enjoy taking an idea or business requirement and turning it into a complete, usable product — from the backend and data layer to the web or desktop application and its deployment.
-
----
-
-## 🧠 About Me
-
-I'm a Software Developer focused on building **full-stack applications with a strong backend orientation**.
-
-My recent work has involved developing software for real businesses and real-world use cases, including:
-
-* Multi-company business management systems
-* Web and desktop applications connected to the same backend
-* Industrial inspection and maintenance systems
-* QR-based identification and workflows
-* Authentication and role-based access
-* Database-driven applications
-* SaaS platforms
-* AI-powered applications
-* Client websites with administration panels and external integrations
-
-I care about building software that is not only functional, but also **maintainable, secure and scalable**.
+[![Portafolio](https://img.shields.io/badge/Portafolio-lautaroclm.github.io-111?style=for-the-badge&logo=githubpages&logoColor=white)](https://lautaroclm.github.io/Portfolio-/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lautaro_Colman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lautaro-colman-26a773375/)
+[![Email](https://img.shields.io/badge/Email-colmanlautaro24@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:colmanlautaro24@gmail.com)
 
 ---
 
-## 🛠️ Technologies
+## Proyectos destacados
 
-### Backend & Data
+| Proyecto | Foco backend | Stack | Links |
+|---|---|---|---|
+| **Stockly** | SaaS multiempresa: varias empresas en una misma plataforma con sus datos separados. Ventas, stock, compras, proveedores, caja y finanzas. | TypeScript · Supabase · PostgreSQL · React · Tauri | [Demo](https://stockly-opal.vercel.app) · [Código](https://github.com/LautaroCLM/Stockly) |
+| **Molinete** | SaaS para gimnasios: aislamiento de datos por gimnasio, permisos por rol, ingreso de socios por QR, cuotas, asistencias y caja. | TypeScript · Supabase · PostgreSQL · Next.js | [Demo](https://molinete-pi.vercel.app) · [Código](https://github.com/LautaroCLM/molinete-app) |
+| **Stock Management System** | Sincronización entre una app de escritorio con base local y una plataforma web con base en la nube. | Electron · SQLite · Supabase · Next.js | [Demo](https://web-three-iota-59.vercel.app) · [Código](https://github.com/LautaroCLM/stock-app-electron) |
+| **TPM Autoelevadores** | Sistema industrial de inspecciones de autoelevadores: checklists, reporte de fallas con foto y trazabilidad para mantenimiento. | TypeScript · Supabase · PostgreSQL · Next.js | [Código](https://github.com/LautaroCLM/tpm-autoelevadores) |
+| **Fire Car** | Marketplace de vehículos en Django: cuentas de usuario, publicaciones y catálogo dinámico. | Python · Django · JavaScript | [Demo](https://fire-car-ecommerce.onrender.com/accounts/) · [Código](https://github.com/LautaroCLM/Fire_Car_Ecommerce) |
+| **PlayerAI Platform** | Plataforma para agencias deportivas: perfiles, estadísticas, documentación contractual y biblioteca de videos. | TypeScript · Firebase · Supabase · React | [Demo](https://player-ai-platform.vercel.app) · [Código](https://github.com/LautaroCLM/player-ai-platform) |
+| **Servicios Integrados Web** | Sitio corporativo en producción con CMS de novedades sobre Supabase. | TypeScript · Supabase · React · Vite | [Sitio](https://serviciosintegradosweb.com) · [Código](https://github.com/LautaroCLM/servicios_integrados) |
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="32" alt="Django" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" />
-</p>
-
-### Full-Stack & Application Development
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" />
-</p>
-
-### Other Technologies
-
-* Next.js
-* Electron
-* Supabase
-* REST APIs
-* SQL
-* AI integrations
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Render
-* Vercel
-* Netlify
+Los casos de estudio completos, con capturas, están en mi [portafolio](https://lautaroclm.github.io/Portfolio-/).
 
 ---
 
-# 🚀 Featured Projects
+## Stack
 
-## 📦 Stock Management Platform
+**Backend y datos (uso a diario)**
 
-**Multi-company business management system**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-One of my main software projects, evolved from a local desktop application into an **online multi-company platform**.
-
-The system connects a desktop application with a web application through a shared backend and database, allowing businesses to manage their operations from different environments.
-
-### Key features
-
-* Multi-company architecture
-* Product and inventory management
-* Sales management
-* Automatic ticket generation
-* Stock control
-* Business data persistence
-* Web application
-* Desktop application
-* Shared backend and database
-* Authentication and user management
-
-🔗 **Repository:**
-https://github.com/LautaroCLM/stock-app-electron
+**He trabajado con:** SQLite · Firebase · Next.js · React · Electron · Tauri · Tailwind CSS · Git · Vercel · Netlify
 
 ---
 
-## 🏭 TPM Autoelevadores
+## Formación
 
-**Industrial inspection and maintenance management platform**
-
-A real-world system developed for a company to manage **forklifts, operators, inspections and maintenance workflows**.
-
-The application uses QR codes to identify equipment and guide operators through digital inspection checklists.
-
-### Key features
-
-* QR-based equipment identification
-* Operator authentication
-* Digital inspection checklists
-* Equipment management
-* Inspection records
-* Failure and incident management
-* Maintenance workflow
-* Photo evidence
-* Role-based access
-* Database-backed architecture
-* Web application optimized for mobile devices
-
-The project was developed around an actual business workflow, with a strong focus on **security, data integrity and usability in the field**.
+- **Técnico Universitario en Programación**, UTN (egresado en diciembre de 2025)
+- **Diplomatura en Programación y Análisis de Datos**, UBA (en curso)
 
 ---
 
-## 🤖 Player AI Platform
+## Contacto
 
-**AI-powered SaaS for football players**
-
-A modern SaaS platform focused on helping football players create professional sports content using AI-powered tools.
-
-### Key features
-
-* AI-powered content generation
-* Sports flyer creation
-* Image enhancement
-* Modern web interface
-* Responsive application
-* SaaS architecture
-* AI integrations
-
-**Built with:** Next.js, TypeScript, Tailwind CSS, shadcn/ui and AI integrations.
-
-🔗 **Repository:**
-https://github.com/LautaroCLM/player-ai-platform
-
----
-
-## 🌐 Servicios Integrados
-
-**Corporate website and client management platform**
-
-A website developed for a real client, combining a corporate web presence with tools that allow the client to manage content independently.
-
-### Key features
-
-* Custom domain
-* Professional business email
-* Administrative panel
-* News management system
-* Client-managed content
-* Integrated AI chat
-* SEO configuration
-* Responsive design
-* Production deployment
-
-The project covers the complete process from development to **deployment and production configuration**.
-
----
-
-# 💻 Other Projects
-
-### 🛒 Fire Car Ecommerce
-
-Full e-commerce platform developed with Django.
-
-* Authentication and session management
-* Product CRUD
-* Stock management
-* Shopping cart
-* Database integration
-* Responsive interface
-* Production deployment
-
-🔗 https://github.com/Lautarocoman12/Fire_Car_Ecommerce
-
----
-
-### 🛍️ Marketplace Platform
-
-Marketplace application focused on product and user management.
-
-* User management
-* Product management
-* Backend/frontend integration
-* Relational database
-* Django backend
-
-🔗 https://github.com/LautaroCLM/mi_marketplace
-
----
-
-# 🔧 What I Like Building
-
-I particularly enjoy working on software where there is an actual problem to solve.
-
-**Business systems**
-Applications that automate or improve real operational workflows.
-
-**Backend systems**
-APIs, authentication, databases, business logic and integrations.
-
-**SaaS platforms**
-Multi-user and multi-company applications designed to operate online.
-
-**Desktop + Web applications**
-Systems where different clients interact with the same backend and data.
-
-**AI-powered applications**
-Integrating AI into useful products rather than using it only as a demonstration.
-
----
-
-# 📈 GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LautaroCLM&show_icons=true&theme=dark&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LautaroCLM&layout=compact&langs_count=6&theme=dark&hide_border=true" height="170" alt="Top Languages" />
-</p>
-
----
-
-# 📫 Contact
-
-📧 **Email:** [colmanlautaro24@gmail.com](mailto:colmanlautaro24@gmail.com)
-
-💼 **LinkedIn:**
-https://linkedin.com/in/lautaro-colman-26a773375
-
----
-
-### 🚀 Building software that solves real problems.
+Abierto a oportunidades como desarrollador backend: [colmanlautaro24@gmail.com](mailto:colmanlautaro24@gmail.com) · [LinkedIn](https://www.linkedin.com/in/lautaro-colman-26a773375/)
